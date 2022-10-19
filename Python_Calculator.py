@@ -31,7 +31,7 @@ def equals(): # defining what happenes when you press the equals button
 
     except SyntaxError: # check for syntax error
 
-        equation_label.set("Order does not make sense") # displays "Order does not make sense" if there is a syntax error
+        equation_label.set("Question does not make sense") # displays "Question does not make sense" if there is a syntax error
 
         equation_text = "" # resets equation if there is a syntax error
 
