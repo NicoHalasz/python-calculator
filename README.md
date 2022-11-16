@@ -37,3 +37,4 @@ https://miro.com/app/board/uXjVPUKP3Pg=/?share_link_id=5928969487
   * Plus and Minus are on the right side of the screen sinse they are more common for younger children
   * Divide, Multiply, and Decimal are not in such dominant ositions sinse they are less common for younger children
   * Equals at the bottom spanin across the length of 4 buttons
+  * Display at the top like most calculators
